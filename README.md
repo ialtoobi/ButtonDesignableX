@@ -1,6 +1,6 @@
 # ButtonDesignableX
  
-Easy tool helps iOS Developers to design flat buttons!
+an extantion helps iOS Developers to design flat buttons with a cool Bounce animation!
 
 Created By: @ialtoobi
 
